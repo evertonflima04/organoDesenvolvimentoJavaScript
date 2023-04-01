@@ -13,7 +13,12 @@
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
     width: 100%;
     border: none;
+    border-radius: 8px;
     font-size: 24px;
     padding: 24px;
     box-sizing: border-box;
+}
+
+.campo-texto input:hover{
+    border: 1px solid #6278f7;
 }
